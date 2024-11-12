@@ -1,6 +1,5 @@
 # Resource
 
-## svg
-https://svgl.app/
-
-https://react-svgr.com/playground/
+## SVG
+- https://svgl.app/
+- https://react-svgr.com/playground/
